@@ -47,3 +47,6 @@ Use it for learn, but please don’t republish, redistribute, or resell the temp
 
 Code by [hansenf](https://github.com/hansenf)  
 UI/UX by [hansenf](https://www.figma.com/@hansenf)
+
+# References
+Exchange Open API [Formicka](https://github.com/Formicka/exchangerate.host)
