@@ -1,4 +1,4 @@
-# NEFA Landing Page
+# IZEXCH Landing Page
 
 Free landing page template built using Next and Tailwindcss 3
 
@@ -46,4 +46,7 @@ $ yarn generate
 Use it for learn, but please don’t republish, redistribute, or resell the template.
 
 Code by [hansenf](https://github.com/hansenf)  
-UI/UX by [hansenf](https://www.figma.com/@hansenf)
+UI/UX by [hansenf](https://www.figma.com/file/IqHA3lQRjBxTBp0lrx8RD6/Landing-Page-Izexch?node-id=0%3A636)
+
+# References
+Exchange Open API [Formicka](https://github.com/Formicka/exchangerate.host)
