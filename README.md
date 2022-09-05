@@ -1,4 +1,4 @@
-# NEFA Landing Page
+# IZEXCH Landing Page
 
 Free landing page template built using Next and Tailwindcss 3
 
